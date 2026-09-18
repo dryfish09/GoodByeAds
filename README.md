@@ -286,4 +286,4 @@ AdAway Community is licensed under the GPLv3+, the same license as the original 
 
 When distributing APK builds, the corresponding source code is made available through this repository and its release tags/commits.
 
-See [LICENSE.md](LICENSE.md) for the full license text.
+See [LICENSE](LICENSE) for the full license text.
